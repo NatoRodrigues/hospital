@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1c1eb1cd-ee79-46be-baf1-2065a94eba7c/resourceGroups/AppServiceHMS/providers/Microsoft.Web/sites/hospitalHMS",
+    "appService.deploySubpath": "."
+}
